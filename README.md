@@ -21,7 +21,7 @@ starUML
 
 4.根據類圖，生成系統某一時刻的對象圖
 # 類別圖
-![類圖](https://github.com/user-attachments/assets/53ac3e6b-25e2-4c0d-ae9f-519ff2d4035d)
+![類圖](https://github.com/11024204nhu/midterm/blob/main/%E9%A1%9E%E5%9C%96.jpg))
 
 上圖總的來說共有六個類，其中分別是User，RegisteredUser，OrdinaryUser，LibraryManager，MailSystem， Library。
 
@@ -29,6 +29,5 @@ starUML
 
 Library類依賴於RegisterUser和OrdinaryReader類;LibraryManager還實作了MailSystem接口，又和Library之間存在著組成關係，各個類都設定了一定的可見性，有的定義了一些操作方法。
 # 對象圖
-![對象圖](https://github.com/user-attachments/assets/1900207c-9c51-4f6b-8f4f-760e74bdd6fb)
-
+![對象圖](https://github.com/11024204nhu/midterm/blob/main/%E5%B0%8D%E8%B1%A1%E5%9C%96.jpg)
 從上圖可以看出有三個對象

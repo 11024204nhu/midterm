@@ -8,7 +8,7 @@ starUML
 # 實驗任務
 針對「迷你圖書管理系統」的使用案例圖，進行分析，完成類別建模。
 # 用例圖
-![用例圖](https://github.com/user-attachments/assets/bcbd482c-774b-4bef-8151-2dedc9e34977)
+![用例圖](https://github.com/11024204nhu/midterm/blob/main/%E7%94%A8%E4%BE%8B%E5%9C%96.jpg))
 
 # 實驗步驟
 分析實驗任務內容，並利用UML完成類別的建模並產生對象，主要包括：
